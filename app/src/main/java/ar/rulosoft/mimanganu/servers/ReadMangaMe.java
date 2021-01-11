@@ -21,7 +21,7 @@ import ar.rulosoft.navegadores.Navigator;
 
 public class ReadMangaMe extends ServerBase {
 
-    private String HOST = "https://readmanga.me";
+    private String HOST = "https://readmanga.live";
 
     private static int[] genres = new int[]{
             R.string.flt_tag_all, //ap
